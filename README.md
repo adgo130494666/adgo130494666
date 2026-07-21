@@ -1,44 +1,76 @@
 # Hi, I'm Alejandro Gomez 👋
 
-**M.S. Candidate in Data Science at The George Washington University**
+**M.S. Candidate in Data Science** at **The George Washington University**
 
-**Systems Analyst at the Central Bank of Paraguay**
+**Systems Analyst** at the **Central Bank of Paraguay**
 
-I build data science, machine learning, and software engineering solutions with a focus on analytics, artificial intelligence, and public-sector technology.
+I build data science, machine learning, and software engineering solutions focused on analytics, artificial intelligence, and enterprise applications.
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🌍 World Bank WDI Analytics Dashboard
 
-End-to-end analytics dashboard for exploring World Bank World Development Indicators using Python, Dash, Plotly, and Scikit-learn.
+Interactive analytics dashboard built with **Python, Dash, Plotly, and Scikit-learn** for exploring World Bank World Development Indicators.
 
-🔗 https://github.com/adgo130494666/world-bank-wdi-dashboard
+🔗 **Repository**
 
----
+https://github.com/adgo130494666/world-bank-wdi-dashboard
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🚗 US Traffic Accident Severity Prediction
 
-End-to-end machine learning pipeline comparing multiple classification models to predict accident severity using over 7.7 million U.S. accident records.
+Machine learning pipeline comparing **LightGBM, Random Forest, MLP, and Logistic Regression** using more than **7.7 million** U.S. traffic accident records.
 
----
+🔗 **Repository**
+
+https://github.com/adgo130494666/us-accident-severity-prediction
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🤖 Automatic Keyword Detection
 
-Machine learning project for automatic keyword detection and text analysis.
+Natural Language Processing project for automatic keyword detection and text classification.
+
+🔗 **Repository**
+
+https://github.com/adgo130494666/Automatic_Keyword_Detection_Public
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏢 Insurance CRM
+
+Enterprise CRM for insurance brokers built with **Oracle APEX** featuring customer management, policy administration, dashboards, document management, and automated renewal reminders.
+
+🚧 **Currently in Development**
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-### 🏢 Insurance CRM *(Coming Soon)*
+## 💻 Technical Skills
 
-Enterprise web application for insurance brokers built with Oracle APEX, featuring customer management, policy tracking, document management, dashboards, and automated reminders.
-
----
-
-## Technical Skills
-
-### Programming Languages
+### Programming
 
 - Python
 - SQL
@@ -52,12 +84,30 @@ Enterprise web application for insurance brokers built with Oracle APEX, featuri
 - LightGBM
 - Plotly
 - Dash
+- Matplotlib
+- Seaborn
 
-### Software & Cloud
+### Software Development
 
 - Oracle APEX
-- Docker
 - Git
+- Docker
 - Google Cloud Run
 
 ---
+
+## 🎯 Interests
+
+- Machine Learning
+- Artificial Intelligence
+- Data Science
+- Data Visualization
+- Enterprise Software Development
+- Financial Technology
+- Public Sector Technology
+
+---
+
+## 📫 Contact
+
+📧 **Email:** adgo130494666@gmail.com
