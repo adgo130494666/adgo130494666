@@ -20,7 +20,7 @@ End-to-end analytics dashboard for exploring World Bank World Development Indica
 
 ### 🚗 US Traffic Accident Severity Prediction
 
-End-to-end machine learning pipeline comparing multiple classification models to predict accident severity using over **7.7 million** U.S. accident records.
+End-to-end machine learning pipeline comparing multiple classification models to predict accident severity using over 7.7 million U.S. accident records.
 
 ---
 
@@ -42,6 +42,7 @@ Enterprise web application for insurance brokers built with Oracle APEX, featuri
 
 - Python
 - SQL
+- R
 
 ### Data Science & Machine Learning
 
