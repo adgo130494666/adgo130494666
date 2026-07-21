@@ -4,67 +4,38 @@
 
 **Systems Analyst at the Central Bank of Paraguay**
 
-I build data science, machine learning, and software engineering solutions focused on analytics, artificial intelligence, and enterprise applications.
+Building machine learning, data science, and enterprise software solutions.
+
+📧 **Email:** adgo130494666@gmail.com
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
+<p align="center">
 
-<td width="50%" valign="top">
+<a href="https://github.com/adgo130494666/world-bank-wdi-dashboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adgo130494666&repo=world-bank-wdi-dashboard&hide_border=true" />
+</a>
 
-### 🌍 World Bank WDI Analytics Dashboard
+<a href="https://github.com/adgo130494666/us-accident-severity-prediction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adgo130494666&repo=us-accident-severity-prediction&hide_border=true" />
+</a>
 
-Interactive analytics dashboard built with **Python, Dash, Plotly, and Scikit-learn** for exploring World Bank World Development Indicators.
+<a href="https://github.com/adgo130494666/Automatic_Keyword_Detection_Public">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adgo130494666&repo=Automatic_Keyword_Detection_Public&hide_border=true" />
+</a>
 
-🔗 **Repository**
+</p>
 
-https://github.com/adgo130494666/world-bank-wdi-dashboard
+### 🏢 Insurance CRM *(In Development)*
 
-</td>
+Enterprise CRM for insurance brokers built with **Oracle APEX**, featuring:
 
-<td width="50%" valign="top">
-
-### 🚗 US Traffic Accident Severity Prediction
-
-Machine learning pipeline comparing **LightGBM, Random Forest, MLP, and Logistic Regression** using more than **7.7 million** U.S. traffic accident records.
-
-🔗 **Repository**
-
-https://github.com/adgo130494666/us-accident-severity-prediction
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🤖 Automatic Keyword Detection
-
-Natural Language Processing project for automatic keyword detection and text classification.
-
-🔗 **Repository**
-
-https://github.com/adgo130494666/Automatic_Keyword_Detection_Public
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🏢 Insurance CRM
-
-Enterprise CRM for insurance brokers built with **Oracle APEX** featuring customer management, policy administration, dashboards, document management, and automated renewal reminders.
-
-🚧 **Currently in Development**
-
-</td>
-
-</tr>
-</table>
+- Customer & policy management
+- Document management
+- Dashboards & analytics
+- Automated renewal reminders
 
 ---
 
@@ -72,27 +43,15 @@ Enterprise CRM for insurance brokers built with **Oracle APEX** featuring custom
 
 ### Programming
 
-- Python
-- SQL
-- R
+`Python` • `SQL` • `R`
 
 ### Data Science & Machine Learning
 
-- Pandas
-- NumPy
-- Scikit-learn
-- LightGBM
-- Plotly
-- Dash
-- Matplotlib
-- Seaborn
+`Pandas` • `NumPy` • `Scikit-learn` • `LightGBM` • `Plotly` • `Dash` • `Matplotlib` • `Seaborn`
 
 ### Software Development
 
-- Oracle APEX
-- Git
-- Docker
-- Google Cloud Run
+`Oracle APEX` • `Git` • `Docker` • `Google Cloud Run`
 
 ---
 
@@ -101,13 +60,15 @@ Enterprise CRM for insurance brokers built with **Oracle APEX** featuring custom
 - Machine Learning
 - Artificial Intelligence
 - Data Science
-- Data Visualization
 - Enterprise Software Development
 - Financial Technology
 - Public Sector Technology
 
 ---
 
-## 📫 Contact
+## 📈 GitHub Stats
 
-📧 **Email:** adgo130494666@gmail.com
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=adgo130494666&show_icons=true&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adgo130494666&layout=compact&hide_border=true" />
+</p>
