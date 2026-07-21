@@ -1,23 +1,10 @@
 # Hi, I'm Alejandro Gomez 👋
 
-M.S. Data Science student at **The George Washington University**
+**M.S. Candidate in Data Science** at **The George Washington University**
 
-Systems Analyst at the **Central Bank of Paraguay**
+**Systems Analyst** at the **Central Bank of Paraguay**
 
----
-
-## About Me
-
-I'm interested in building data-driven solutions that combine software engineering, machine learning, and interactive analytics.
-
-My interests include:
-
-- Data Science
-- Machine Learning
-- Artificial Intelligence
-- Data Visualization
-- Public Sector Technology
-- Financial Systems
+I build data science, machine learning, and software engineering solutions with a focus on analytics, artificial intelligence, and public-sector technology.
 
 ---
 
@@ -25,43 +12,73 @@ My interests include:
 
 ### 🌍 World Bank WDI Analytics Dashboard
 
-An end-to-end analytics dashboard built with Python, Dash, Plotly, and Scikit-learn for exploring World Bank World Development Indicators.
+End-to-end analytics dashboard for exploring World Bank World Development Indicators using Python, Dash, Plotly, and Scikit-learn.
 
 🔗 https://github.com/adgo130494666/world-bank-wdi-dashboard
 
 ---
 
-### 🤖 Automatic Keyword Detection
+### 🚗 US Traffic Accident Severity Prediction
 
-A machine learning project for automatic keyword detection and text analysis.
+End-to-end machine learning pipeline comparing multiple classification models to predict accident severity using over **7.7 million** U.S. accident records.
 
 ---
 
-## Technologies
+### 🤖 Automatic Keyword Detection
+
+Machine learning project for automatic keyword detection and text analysis.
+
+---
+
+### 🏢 Insurance CRM *(Coming Soon)*
+
+Enterprise web application for insurance brokers built with Oracle APEX, featuring customer management, policy tracking, document management, dashboards, and automated reminders.
+
+---
+
+## Technical Skills
+
+### Programming Languages
 
 - Python
 - SQL
+
+### Data Science & Machine Learning
+
 - Pandas
 - NumPy
 - Scikit-learn
+- LightGBM
 - Plotly
 - Dash
+
+### Software & Cloud
+
 - Oracle APEX
-- Git
 - Docker
+- Git
+- Google Cloud Run
 
 ---
 
-## Education
+## Interests
 
-**George Washington University**
-
-M.S. Data Science
-
-Expected Graduation: May 2027
+- Data Science
+- Machine Learning
+- Artificial Intelligence
+- Data Visualization
+- Software Engineering
+- Public Sector Technology
+- Financial Technology
 
 ---
 
-## Connect
+## Contact
 
-📧 adgo130494666@gmail.com
+📧 **Email**
+
+adgo130494666@gmail.com
+
+🐙 **GitHub**
+
+https://github.com/adgo130494666
