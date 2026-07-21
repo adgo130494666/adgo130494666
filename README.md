@@ -1,10 +1,10 @@
 # Hi, I'm Alejandro Gomez 👋
 
-**M.S. Candidate in Data Science at The George Washington University**
+**M.S. Candidate in Data Science** at **The George Washington University**
 
-**Systems Analyst at the Central Bank of Paraguay**
+**Systems Analyst** at the **Central Bank of Paraguay**
 
-Building machine learning, data science, and enterprise software solutions.
+**Machine Learning • Data Science • Artificial Intelligence • Enterprise Software**
 
 📧 **Email:** adgo130494666@gmail.com
 
@@ -12,25 +12,15 @@ Building machine learning, data science, and enterprise software solutions.
 
 ## 🚀 Featured Projects
 
-<p align="center">
+[![World Bank WDI Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=adgo130494666&repo=world-bank-wdi-dashboard&theme=default&hide_border=true)](https://github.com/adgo130494666/world-bank-wdi-dashboard)
 
-<a href="https://github.com/adgo130494666/world-bank-wdi-dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adgo130494666&repo=world-bank-wdi-dashboard&hide_border=true" />
-</a>
+[![US Traffic Accident Severity Prediction](https://github-readme-stats.vercel.app/api/pin/?username=adgo130494666&repo=us-accident-severity-prediction&theme=default&hide_border=true)](https://github.com/adgo130494666/us-accident-severity-prediction)
 
-<a href="https://github.com/adgo130494666/us-accident-severity-prediction">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adgo130494666&repo=us-accident-severity-prediction&hide_border=true" />
-</a>
-
-<a href="https://github.com/adgo130494666/Automatic_Keyword_Detection_Public">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adgo130494666&repo=Automatic_Keyword_Detection_Public&hide_border=true" />
-</a>
-
-</p>
+[![Automatic Keyword Detection](https://github-readme-stats.vercel.app/api/pin/?username=adgo130494666&repo=Automatic_Keyword_Detection_Public&theme=default&hide_border=true)](https://github.com/adgo130494666/Automatic_Keyword_Detection_Public)
 
 ### 🏢 Insurance CRM *(In Development)*
 
-Enterprise CRM for insurance brokers built with **Oracle APEX**, featuring:
+Oracle APEX CRM for insurance brokers featuring:
 
 - Customer & policy management
 - Document management
@@ -41,21 +31,21 @@ Enterprise CRM for insurance brokers built with **Oracle APEX**, featuring:
 
 ## 💻 Technical Skills
 
-### Programming
+**Programming**
 
 `Python` • `SQL` • `R`
 
-### Data Science & Machine Learning
+**Data Science & Machine Learning**
 
 `Pandas` • `NumPy` • `Scikit-learn` • `LightGBM` • `Plotly` • `Dash` • `Matplotlib` • `Seaborn`
 
-### Software Development
+**Software Development**
 
 `Oracle APEX` • `Git` • `Docker` • `Google Cloud Run`
 
 ---
 
-## 🎯 Interests
+## 🎯 Areas of Interest
 
 - Machine Learning
 - Artificial Intelligence
@@ -65,10 +55,3 @@ Enterprise CRM for insurance brokers built with **Oracle APEX**, featuring:
 - Public Sector Technology
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=adgo130494666&show_icons=true&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adgo130494666&layout=compact&hide_border=true" />
-</p>
