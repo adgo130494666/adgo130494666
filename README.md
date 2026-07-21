@@ -6,23 +6,29 @@
 
 **Machine Learning • Data Science • Artificial Intelligence • Enterprise Software**
 
-📧 **Email:** adgo130494666@gmail.com
+📧 **adgo130494666@gmail.com**
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌍 World Bank WDI Analytics Dashboard
-Interactive dashboard for exploring World Bank indicators using Python, Dash, Plotly, and Scikit-learn.
+### 🌍 [World Bank WDI Analytics Dashboard](https://github.com/adgo130494666/world-bank-wdi-dashboard)
 
-### 🚗 US Traffic Accident Severity Prediction
-Machine learning pipeline comparing LightGBM, Random Forest, MLP, and Logistic Regression on 7.7M+ U.S. accident records.
+Interactive dashboard for exploring World Bank indicators using **Python, Dash, Plotly, and Scikit-learn**.
 
-### 🤖 Automatic Keyword Detection
+### 🚗 [US Traffic Accident Severity Prediction](https://github.com/adgo130494666/us-accident-severity-prediction)
+
+Machine learning pipeline comparing **LightGBM, Random Forest, MLP, and Logistic Regression** on **7.7M+** U.S. accident records.
+
+### 🤖 [Automatic Keyword Detection](https://github.com/adgo130494666/Automatic_Keyword_Detection_Public)
+
 Natural Language Processing project for automatic keyword detection and text classification.
 
 ### 🏢 Insurance CRM *(In Development)*
-Oracle APEX CRM for insurance brokers featuring:
+
+Oracle APEX CRM for insurance brokers.
+
+**Key Features**
 
 - Customer & policy management
 - Document management
@@ -51,6 +57,7 @@ Oracle APEX CRM for insurance brokers featuring:
 
 - Machine Learning
 - Artificial Intelligence
+- Data Science
 - Enterprise Software Development
 - Financial Technology
 - Public Sector Technology
