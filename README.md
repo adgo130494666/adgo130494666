@@ -1,8 +1,8 @@
 # Hi, I'm Alejandro Gomez 👋
 
-**M.S. Candidate in Data Science** at **The George Washington University**
+**M.S. Candidate in Data Science at The George Washington University**
 
-**Systems Analyst** at the **Central Bank of Paraguay**
+**Systems Analyst at the Central Bank of Paraguay**
 
 **Machine Learning • Data Science • Artificial Intelligence • Enterprise Software**
 
