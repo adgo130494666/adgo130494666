@@ -12,14 +12,16 @@
 
 ## 🚀 Featured Projects
 
-[![World Bank WDI Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=adgo130494666&repo=world-bank-wdi-dashboard&theme=default&hide_border=true)](https://github.com/adgo130494666/world-bank-wdi-dashboard)
+### 🌍 World Bank WDI Analytics Dashboard
+Interactive dashboard for exploring World Bank indicators using Python, Dash, Plotly, and Scikit-learn.
 
-[![US Traffic Accident Severity Prediction](https://github-readme-stats.vercel.app/api/pin/?username=adgo130494666&repo=us-accident-severity-prediction&theme=default&hide_border=true)](https://github.com/adgo130494666/us-accident-severity-prediction)
+### 🚗 US Traffic Accident Severity Prediction
+Machine learning pipeline comparing LightGBM, Random Forest, MLP, and Logistic Regression on 7.7M+ U.S. accident records.
 
-[![Automatic Keyword Detection](https://github-readme-stats.vercel.app/api/pin/?username=adgo130494666&repo=Automatic_Keyword_Detection_Public&theme=default&hide_border=true)](https://github.com/adgo130494666/Automatic_Keyword_Detection_Public)
+### 🤖 Automatic Keyword Detection
+Natural Language Processing project for automatic keyword detection and text classification.
 
 ### 🏢 Insurance CRM *(In Development)*
-
 Oracle APEX CRM for insurance brokers featuring:
 
 - Customer & policy management
@@ -49,9 +51,6 @@ Oracle APEX CRM for insurance brokers featuring:
 
 - Machine Learning
 - Artificial Intelligence
-- Data Science
 - Enterprise Software Development
 - Financial Technology
 - Public Sector Technology
-
----
