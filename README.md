@@ -1,4 +1,4 @@
-# Hi, I'm Alejandro Gomez 👋
+# Hi, I'm Alejandro Gomez
 
 **M.S. Candidate in Data Science at The George Washington University**
 
@@ -14,11 +14,11 @@
 
 ### 🌍 [World Bank WDI Analytics Dashboard](https://github.com/adgo130494666/world-bank-wdi-dashboard)
 
-Interactive dashboard for exploring World Bank indicators using **Python, Dash, Plotly, and Scikit-learn**.
+Interactive dashboard for exploring World Bank indicators using Python, Dash, Plotly, and Scikit-learn.
 
 ### 🚗 [US Traffic Accident Severity Prediction](https://github.com/adgo130494666/us-accident-severity-prediction)
 
-Machine learning pipeline comparing **LightGBM, Random Forest, MLP, and Logistic Regression** on **7.7M+** U.S. accident records.
+Machine learning pipeline comparing LightGBM, Random Forest, MLP, and Logistic Regression** on 7.7M+ U.S. accident records.
 
 ### 🤖 [Automatic Keyword Detection](https://github.com/adgo130494666/Automatic_Keyword_Detection_Public)
 
