@@ -1,4 +1,4 @@
-# Hi, I'm Alejandro Gomez
+# Hi, I'm Alejandro Gomez 👨‍💻
 
 **M.S. Candidate in Data Science at The George Washington University**
 
