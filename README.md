@@ -24,16 +24,9 @@ Machine learning pipeline comparing **LightGBM, Random Forest, MLP, and Logistic
 
 Natural Language Processing project for automatic keyword detection and text classification.
 
-### 🏢 Insurance CRM *(In Development)*
+### 🏢 [Insurance CRM](https://github.com/adgo130494666/insurance-crm)
 
 Oracle APEX CRM for insurance brokers.
-
-**Key Features**
-
-- Customer & policy management
-- Document management
-- Dashboards & analytics
-- Automated renewal reminders
 
 ---
 
